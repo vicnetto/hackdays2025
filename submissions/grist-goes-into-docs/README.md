@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for Grist goes into Docs
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @matts2cant
+- **Members**: @Marine, @Clemsazert, @anaisberg, @ThomasMetzger
 
 ## Code base
 (Provide a link to your Git repository)

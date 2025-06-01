@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for Sovereign42
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @frenzlad
+- **Members**: @frenzlad, @extrymes, @Helios5D, @JeanBRen, @msima0
 
 ## Code base
 (Provide a link to your Git repository)

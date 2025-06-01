@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for COAST Team
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @LisaFmt
+- **Members**: @LisaFmt, @vicnetto, @jpeisenbarth, @Qachr, @ludop67
 
 ## Code base
 (Provide a link to your Git repository)

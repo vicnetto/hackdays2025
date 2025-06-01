@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for Matrix: Element X Web
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @langleyd
+- **Members**: @langleyd, @florianduros, @t3chguy
 
 ## Code base
 (Provide a link to your Git repository)

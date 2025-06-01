@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for Team IronCalc
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @nhatcher
+- **Members**: @nhatcher, @sylvinus - We're looking for more hackers!
 
 ## Code base
 (Provide a link to your Git repository)

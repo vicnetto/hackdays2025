@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for Mouxprime
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @mouxprime
+- **Members**: @mouxprime, @mdembele, @g-garibotti, @Wdaoudi
 
 ## Code base
 (Provide a link to your Git repository)

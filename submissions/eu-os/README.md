@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for EU OS
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @rriemann
+- **Members**: see https://gitlab.com/eu-os/eu-os.gitlab.io/-/issues/31#current-team
 
 ## Code base
 (Provide a link to your Git repository)

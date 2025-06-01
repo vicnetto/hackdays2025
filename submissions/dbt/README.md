@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for DBT
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @nboyse
+- **Members**: @nboyse, @TomMacca, @richiebird, @a-i-flo, @lluli
 
 ## Code base
 (Provide a link to your Git repository)

@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for XiVO SIP legacy dring dring tut tut telephony experts
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @ajantiss Laurent Meiller
+- **Members**: Etienne Allovon, Erwan Sevellec, Tony Mourier
 
 ## Code base
 (Provide a link to your Git repository)

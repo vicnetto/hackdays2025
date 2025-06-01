@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for OSRD
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @clarani
+- **Members**: @clarani, @Tguisnet, @emersion, @Castavo
 
 ## Code base
 (Provide a link to your Git repository)

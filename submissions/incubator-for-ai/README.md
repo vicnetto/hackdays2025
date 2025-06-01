@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for Incubator for AI
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @gecBurton
+- **Members**: @duncanjbrown, @nmenezes0, @rachaelcodes, @gecBurton
 
 ## Code base
 (Provide a link to your Git repository)

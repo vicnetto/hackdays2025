@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for OpenProject: Hacking Borders
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @wielinde (Wieland Lindenthal)
+- **Members**: @dominic-braeunlein (Dominic Bräunlein), @brunopagno (Bruno Pagno), @Kharonus (Eric Schubert), @psatyal (Parimal Satyal), @wielinde (Wieland Lindenthal)
 
 ## Code base
 (Provide a link to your Git repository)

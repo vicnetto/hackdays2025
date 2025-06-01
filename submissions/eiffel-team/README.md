@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for EIFFEL Team
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: Isaac Gros
+- **Members**: Isaac Gros, Julien Peria
 
 ## Code base
 (Provide a link to your Git repository)

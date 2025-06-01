@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for Team Mosa.Cloud
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @NielsCodes
+- **Members**: @NielsCodes, @rielzzapps, @Alevale, @CasperHollemans
 
 ## Code base
 (Provide a link to your Git repository)

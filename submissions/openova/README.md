@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for OpeNova
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: Alexandre Amate
+- **Members**: Alexandre Amate, Timothy Greil, Hugo Poquet
 
 ## Code base
 (Provide a link to your Git repository)

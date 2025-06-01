@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for OneT
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @gcollongues
+- **Members**: @dmdevito, @PokePong, @gcollongues, @CedricElie, @TuncayBilgi
 
 ## Code base
 (Provide a link to your Git repository)

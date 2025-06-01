@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for Onepoint Paris
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @froissant
+- **Members**: @froissant, @JeanMilleronSE, @souidanOP, @StanleySweet, @Tayteus
 
 ## Code base
 (Provide a link to your Git repository)

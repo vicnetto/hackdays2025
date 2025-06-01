@@ -1,11 +1,11 @@
-# 🏆 Final Submission for {{name}}
+# 🏆 Final Submission for Vopenia
 
 ## Final Project Description
 (Summarize your project as it stands at the end)
 
 ## Team
-- **Lead**: {{lead}}
-- **Members**: {{members}}
+- **Lead**: @bsenard
+- **Members**: @bsenard, @RaphReynaud, @4thlabs  , @codlab
 
 ## Code base
 (Provide a link to your Git repository)
